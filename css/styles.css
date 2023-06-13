@@ -10900,3 +10900,12 @@ html {
 } */
 
 
+
+
+.social-icons a {
+  transition: transform 0.3s ease; /* Add a smooth transition */
+}
+
+.social-icons a:hover {
+  transform: scale(1.2); /* Increase the size on hover */
+}
